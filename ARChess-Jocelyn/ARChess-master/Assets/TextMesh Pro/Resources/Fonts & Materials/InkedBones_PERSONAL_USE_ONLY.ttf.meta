@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ab21782ccc0e92a4f93756bffc81831d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Inked Bones PERSONAL USE ONLY
+  fontNames:
+  - Inked Bones PERSONAL USE ONLY
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
